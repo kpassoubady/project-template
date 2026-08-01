@@ -24,6 +24,6 @@
     "markdown-pdf.orientation": "portrait",
     "markdown-pdf.displayHeaderFooter": true,
     "markdown-pdf.styles": [
-        "markdown-pdf.css"
+        "./.vscode/markdown-pdf.css"
     ]
 }
